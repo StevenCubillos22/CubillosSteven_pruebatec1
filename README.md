@@ -98,7 +98,7 @@ Y dentro de la carpeta de persistencia creo la carpeta de Exceptions que nos ayu
 
 ## Creación de clase
 
-Las clases las creamos dentro de la carpeta de Logica para un mejor manejo
+La clase las creamos dentro de la carpeta de Logica para un mejor manejo
 
 ## Empleado
 
