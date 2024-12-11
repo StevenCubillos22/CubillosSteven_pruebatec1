@@ -55,6 +55,7 @@ Asi como las de JPA:
         </dependency>
 ```
 
+Y ya para añadir el archivo jar, he accedido a la opción de module settings para añadirlo.
 
 ![Captura de pantalla 2024-12-10 195140](https://github.com/user-attachments/assets/25d7f90b-e402-4178-bc23-d42403b0fa97)
 
