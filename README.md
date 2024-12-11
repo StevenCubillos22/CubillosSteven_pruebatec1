@@ -1,3 +1,11 @@
+
+
+
+![portadapt1](https://github.com/user-attachments/assets/51d65af9-8de9-4732-b1f9-8b72c26142ac)
+
+
+
+
 # Prueba técnica CRUD en Java
 
 En está prueba técnica, se ha realizado un CRUD en Java que se manejará a través de la consola la administración  de los empleados
