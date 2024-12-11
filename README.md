@@ -104,6 +104,8 @@ La clase las creamos dentro de la carpeta de Logica para un mejor manejo
 
 La clase Empleado es una entidad de JPA que representa una tabla en la base de datos con los campos: id, nombre, apellido, cargo, salario y fecha de inicio. El campo id es la clave primaria, autogenerada por la base de datos. La clase tiene constructores, getters, setters y un método toString() para mostrar la información de forma legible.
 
+Importante mencionar que para la fecha usé un atributo de tipo Date que genera una fecha automática a la hora de crear un empleado sin tener que escribirla manualmente.
+
 
 ![Captura de pantalla 2024-12-10 200944](https://github.com/user-attachments/assets/bf5cc6a7-7931-40fd-b23e-77c3ee897939)
 
