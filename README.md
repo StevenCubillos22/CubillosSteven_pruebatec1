@@ -149,5 +149,6 @@ Ahora vamos con el archivo Main que es el punto de entrada de la aplicación y p
 
 ## Organización del proyecto
 
+Y ya para terminar quiero mostrar como quedó la organización del proyecto en como he estructurado los archivos y carpetas:
 
 ![Captura de pantalla 2024-12-10 204640](https://github.com/user-attachments/assets/361085d1-3075-4d9f-bf09-9fbba4827792)
